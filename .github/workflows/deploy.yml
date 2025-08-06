@@ -1,4 +1,4 @@
-name: Terraform Functions
+name: Terraform Domain Name System
 
 on:
   push:
